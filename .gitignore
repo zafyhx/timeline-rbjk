@@ -7,6 +7,8 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+context-generator.js
+FULL_PROJECT_CONTEXT.txt
 node_modules
 dist
 dist-ssr
